@@ -34,4 +34,16 @@ Medilab is an interactive web application that can make diagnosis of pulmonary t
 
 [EfficientNetb3](https://drive.google.com/file/d/1F2RamM03oBahviwY93XCnrpNuTKobMzn/view?usp=sharing)
 
+## How to Use
+
+##### 1. Using Webapp
+
+[WebApp](#)
+You can simply use the web app to register yourself and then pass into your x-ray chest image to get the result
+
+##### 2. Directly from python script
+Pretrained models can be downloaded from links provided above.
+Use the scripts provided in `Python Scripts` folder to run the model.
+Pass in the image model path and image path to get the result
+
 
