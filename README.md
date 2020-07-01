@@ -57,6 +57,8 @@ Medilab is an interactive web application that can make diagnosis of pulmonary t
 
 [WebApp Link: App is Deployed here.](https://tbdetector.herokuapp.com/)
 
+[Webapp Github Link](https://github.com/hritikraj31/HackInIndia)
+
 You can simply use the web app to register yourself and then pass into your x-ray chest image to get the result.
 The backend of the file has been implemented in nodejs, express and mongodb. The forntend is pure HTML with BootStrap and jquery and using fetch api.
 
