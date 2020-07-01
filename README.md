@@ -50,3 +50,12 @@ X-ray images in this data set have been acquired from the tuberculosis control p
 1. The IPython notebooks were trained on Google Colab with GPU(Tesla K80) enabled. The trained models have not been uploaded on to Github.
 2. 640 images were used to train, and 160 to validate the results
 
+## Results
+### Resnet34
+1. The Resnet34 model trained over 20 epochs decreased the error rate from 0.518 to 0.081
+2. Learning Rate curve 
+![Image04](https://github.com/chetanpandey1266/HackInIndia/blob/master/images/04.png)
+3. Confusion matrix
+![Image05](https://github.com/chetanpandey1266/HackInIndia/blob/master/images/05.png)
+4. Accuracy measured = 91.87%
+
