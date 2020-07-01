@@ -1,6 +1,6 @@
 # MediLab
 
-![Medilab Website](https://github.com/chetanpandey1266/HackInIndia/blob/master/gif/website.gif)
+![Medilab Website]
 
 ## Table of Contents
 >- [Introduction](#Introduction)
