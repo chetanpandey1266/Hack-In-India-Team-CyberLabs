@@ -3,11 +3,11 @@
 ![Medilab Website](https://github.com/chetanpandey1266/HackInIndia/blob/master/gif/website.gif)
 
 ## Table of Contents
-- [Introduction](## Introduction)
-- [Implementation](## Implementations)
-- [Training](## Training)
-- [Installation](## Prerequisites)
-- [How to Use](## How to Use)
+- [Introduction](#Introduction)
+- [Implementation](#Implementations)
+- [Training](#Training)
+- [Installation](#Prerequisites)
+- [How to Use](#How to Use)
 
 ## Introduction:
 Medilab is an interactive web application that can make diagnosis of pulmonary tuberculosis much easier than before. With a deep learning backend, our web app will diagnosis pulmonary tuberculosis within seconds using x-ray chest image of the patient.
