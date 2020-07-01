@@ -15,7 +15,7 @@ Medilab is an interactive web application that can make diagnosis of pulmonary t
 ## Implementations
 
 >- Used pretrained resnet34 model
->- Cross Entropy Loss 
+>- Binary Cross Entropy Loss 
 >- Simple Augmentations: flip, rotate, zoom, lightning, normalize
 >- Used `max_lr = slice(range)` to apply smaller learning rates to initial layers and larger to later ones.
 
