@@ -7,7 +7,7 @@
 - [Implementation](#Implementations)
 - [Training](#Training)
 - [Installation](#Prerequisites)
-- [How to Use](#How to Use)
+- [How to Use](#How_to_Use)
 
 ## Introduction:
 Medilab is an interactive web application that can make diagnosis of pulmonary tuberculosis much easier than before. With a deep learning backend, our web app will diagnosis pulmonary tuberculosis within seconds using x-ray chest image of the patient.
