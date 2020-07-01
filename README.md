@@ -48,6 +48,7 @@ You can simply use the web app to register yourself and then pass into your x-ra
 
 ##### 2. Directly from python script
 Pretrained models can be downloaded from links provided above.
+
 Use the scripts provided in `Python Scripts` folder to run the model.
 Pass in the image model path and image path to get the result
 
