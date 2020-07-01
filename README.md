@@ -26,7 +26,9 @@ Medilab is an interactive web application that can make diagnosis of pulmonary t
 ### Results
 - The Resnet34 model trained over 20 epochs decreased the error rate from 0.518 to 0.081
 - Learning Rate curve 
+![Image04](https://raw.githubusercontent.com/Rohitv97/Diagnosing-TB/master/resnet34-LR.PNG)
 - Confusion Matrix
+![Image05](https://raw.githubusercontent.com/Rohitv97/Diagnosing-TB/master/resnet50-confusion-matrix.PNG)
 - Accuracy measured = 91.87%
 
 ## Installation 
