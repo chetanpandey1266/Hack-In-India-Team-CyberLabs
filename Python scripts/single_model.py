@@ -9,4 +9,4 @@ model_path = # loaction of model(string)
 learn = load_learner(model_path)
 
 
-learn.predict(open_image(im_path))
+learn.predict(open_image(im_path))[2].numpy().tolist()
