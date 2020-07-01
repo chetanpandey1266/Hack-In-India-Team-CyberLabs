@@ -16,14 +16,14 @@ We have used fastai, an easy to use ML package based build over Pytorch, to trai
 
 ### Our FrontEnd
 
-Our Home Page
+#### Our Home Page
 ![Image01](https://github.com/chetanpandey1266/HackInIndia/blob/master/images/01.png)
 An attractive homepage developed completely using HTML, CSS, Bootstrap and Javascript
 
-Login Page
+#### Login Page
 ![Image02](https://github.com/chetanpandey1266/HackInIndia/blob/master/images/02.png)
 User can login to use our AI system 
 
-Frequently Asked Question Section
+#### Frequently Asked Question Section
 ![Image03](https://github.com/chetanpandey1266/HackInIndia/blob/master/images/03.png)
 A FAQ section to help user better understand our product
