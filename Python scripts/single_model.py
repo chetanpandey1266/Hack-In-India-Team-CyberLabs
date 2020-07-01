@@ -6,7 +6,9 @@ im_path = # location of image(string)
 
 model_path = # loaction of model(string)
 
-learn = load_learner(model_path)
+learn = load_learner(model_path, "model.pkl")
 
 
-learn.predict(open_image(im_path))[2].numpy().tolist()
+pred = learn.predict(open_image(im_path))[2].numpy().tolist()
+
+print(pred)
