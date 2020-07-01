@@ -38,7 +38,7 @@ Medilab is an interactive web application that can make diagnosis of pulmonary t
 
 [EfficientNetb3](https://drive.google.com/file/d/1F2RamM03oBahviwY93XCnrpNuTKobMzn/view?usp=sharing)
 
-## How to Use
+## How_to_Use
 
 ##### 1. Using Webapp
 
