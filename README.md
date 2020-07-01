@@ -24,14 +24,14 @@ Medilab is an interactive web application that can make diagnosis of pulmonary t
 
 #### Prerequisites
 
-`fastai
+`fastai`
+`fastai.vision`
+`numpy`
 
-fastai.vision
-
-numpy`
 ##### Models
 
 [Resnet34](https://drive.google.com/file/d/1-183IuG42Sh6p4Kk6ok_DJw_PGtbNVSl/view)
+
 [EfficientNetb3](https://drive.google.com/file/d/1F2RamM03oBahviwY93XCnrpNuTKobMzn/view?usp=sharing)
 
 
