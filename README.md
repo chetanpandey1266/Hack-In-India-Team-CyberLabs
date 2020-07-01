@@ -24,13 +24,15 @@ Medilab is an interactive web application that can make diagnosis of pulmonary t
 
 ## Installation 
 
-#### Prerequisites
+### Prerequisites
 
 `fastai`
+
 `fastai.vision`
+
 `numpy`
 
-##### Models
+### Models
 
 [Resnet34](https://drive.google.com/file/d/1-183IuG42Sh6p4Kk6ok_DJw_PGtbNVSl/view)
 
@@ -40,7 +42,7 @@ Medilab is an interactive web application that can make diagnosis of pulmonary t
 
 ##### 1. Using Webapp
 
-[WebApp](#)
+[WebApp Link](#)
 You can simply use the web app to register yourself and then pass into your x-ray chest image to get the result
 
 ##### 2. Directly from python script
