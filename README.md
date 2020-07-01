@@ -20,7 +20,14 @@ Medilab is an interactive web application that can make diagnosis of pulmonary t
 - Used `max_lr = slice(range)` to apply smaller learning rates to initial layers and larger to later ones.
 
 ## Training
-
+- The IPython notebooks were trained on Google Colab with GPU(Tesla K80) enabled. The trained models have not been uploaded on to Github.
+- 640 images were used to train, and 160 to validate the results
+- Resnet34 architecture is trained on this dataset and quite good results are obtained.
+### Results
+- The Resnet34 model trained over 20 epochs decreased the error rate from 0.518 to 0.081
+- Learning Rate curve 
+- Confusion Matrix
+- Accuracy measured = 91.87%
 
 ## Installation 
 
