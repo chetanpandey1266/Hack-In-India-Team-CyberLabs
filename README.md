@@ -1,6 +1,5 @@
 # MediLab
 
-Project for Hack In India 2020 by Script Foundation (Team: Cyberlabs)
 
 ![Medilab Website](https://github.com/chetanpandey1266/Hack-In-India-Team-CyberLabs/blob/master/gif/website.gif)
 
